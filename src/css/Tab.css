@@ -1,0 +1,19 @@
+.nav-item {
+    position: relative;
+}
+.closeTab {
+    position: absolute;
+    right: 7px;
+    top: 9px;
+}
+
+.closeTab > i,
+.closeTab > span {
+    color: lightgrey;
+}
+
+.closeTab > i:hover,
+.closeTab > span:hover {
+    color: red;
+    cursor: pointer;
+}
