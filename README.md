@@ -1,4 +1,4 @@
-# General Purpose Interface
+# General Purpose Web Interface
 
 This is a multi-tab web interface which was created using Yarn, ReactJS, and Typescript.
 
